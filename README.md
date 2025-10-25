@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋😇, I'm Patel Parthkumar</h1>
-<h3 align="center">A passionate frontend developer</h3>
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Patel%20Parthkumar)
 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Alkatra&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%98%87%2C+I'm+Patel+Parthkumar;A+passionate+FullStack+developer" alt="Typing SVG" /></a>
+</div>
+
+
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth10p&label=Profile%20views&color=0e75b6&style=flat" alt="parth10p" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth10p" alt="parth10p" /></a> </p>
@@ -20,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parth10p&show_icons=true&locale=en" alt="parth10p" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parth10p&" alt="parth10p" /></p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
