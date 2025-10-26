@@ -1,5 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Patel%20Parthkumar)
-
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header"/>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Alkatra&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%98%87%2C+I'm+Patel+Parthkumar;A+passionate+FullStack+developer" alt="Typing SVG" /></a>
 </div>
