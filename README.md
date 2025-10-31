@@ -7,6 +7,8 @@
 
 ---
 [![An image of @parth10p's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parth10p)](https://holopin.io/@parth10p)
+
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth10p&label=Profile%20views&color=0e75b6&style=flat" alt="parth10p" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth10p" alt="parth10p" /></a> </p>
