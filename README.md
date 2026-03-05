@@ -1,17 +1,14 @@
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header"/>
+
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Alkatra&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%98%87%2C+I'm+Patel+Parthkumar;A+passionate+FullStack+developer" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Condensed&weight=700&size=24&duration=3000&pause=1000&color=37D340&center=true&vCenter=true&width=650&lines=%3E+whoami;%3E+Patel+Parthkumar;%3E+Status%3A+Optimizing_Logic...;%3E+Open+Source+Enthusiast;%3E+Always+down+to+collaborate."/>
 </div>
+
 
 
 ---
 [![An image of @parth10p's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parth10p)](https://holopin.io/@parth10p)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth10p&label=Profile%20views&color=0e75b6&style=flat" alt="parth10p" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth10p" alt="parth10p" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
