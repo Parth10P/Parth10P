@@ -25,5 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parth10p&show_icons=true&locale=en" alt="parth10p" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parth10p&" alt="parth10p" /></p>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
