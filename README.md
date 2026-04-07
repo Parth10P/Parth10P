@@ -10,3 +10,7 @@
 
 ## 📈 Activity Graph
 [![Parth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parth10p&theme=tokyo-night)](https://github.com/parth10p/)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Parth10p&theme=tokyonight&hide_border=true&card_height=191)](https://git.io/streak-stats" alt="GitHub Streak" />
+</p>
